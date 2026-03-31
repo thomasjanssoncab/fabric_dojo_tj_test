@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "DojoDEVLHBronze"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bb7a3ca0-1d7e-9f4d-4d20-9d955d1b375d"
+  }
+}
