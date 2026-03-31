@@ -36,6 +36,13 @@
         }
       }
     ],
+    "concurrency": 24,
+    "parameters": {
+      "MyParameter": {
+        "type": "string",
+        "defaultValue": "Hello"
+      }
+    },
     "variables": {
       "PipelineRunTime": {
         "type": "Integer"
